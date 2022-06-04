@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- * A program by me yeah
+ * main - A program by me yeah
+ * Description: Completing the task
+ * Return: Return nothing, just zero
  */
 
 int main(void)
