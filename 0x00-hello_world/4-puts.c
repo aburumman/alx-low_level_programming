@@ -1,7 +1,6 @@
 #include <stdio.h>
-/*
- *A program by me yeah
- *
+/**
+ * A program by me yeah
  */
 
 int main(void)
