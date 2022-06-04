@@ -1,5 +1,10 @@
 #include <stdio.h>
-int main(void) /* Using the puts */
+/*
+ *A program by me yeah
+ *
+ */
+
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
