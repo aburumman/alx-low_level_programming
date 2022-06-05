@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main: The main function
- * description: Prints the size of various data types
- * Return: (0)
+ * main - Prints the size of thee various data types
+ * Description: Prints the size of various data types
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
